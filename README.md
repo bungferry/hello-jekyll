@@ -57,29 +57,4 @@ Save. Enjoy. Happy Jekylling!
 
 ### Live Demo
 
-See a live demo @ [`henrythemes.github.io/hello-jekyll-theme` »](https://henrythemes.github.io/hello-jekyll-theme)
-
-
-### Bonus - Q: Can I Use Ready-Made Styles / Designs / Themes? A: Hello, Minima! Theme - Get Started in 60 Seconds, Reloaded
-
-It's up to you to add your styles. Be bold.
-To use ready-made styles / designs / themes see the [**Hello, Minima! Theme - Get Started in 60 Seconds**](https://github.com/henrythemes/hello-minima-theme) repo.
-
-
-
-### More Themes
-
-See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
-
-
-
-## Meta
-
-#### License
-
-The Hello, Jekyll! theme is dedicated to the public domain.
-Use it as you please with no restrictions whatsoever.
-
-#### Questions? Comments?
-
-Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!
+See a live demo @ [`bungferry.github.io/hello-jekyll/` »](https://bungferry.github.io/hello-jekyll/)
